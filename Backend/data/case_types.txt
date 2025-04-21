@@ -1,0 +1,34 @@
+{
+    "Consumer Credit Protection Laws": {
+        "description": "Legal provisions related to consumer credit protection.",
+        "legal_provisions": "Consumer Credit Protection Laws"
+    },
+    "Property Disputes": {
+        "description": "Legal matters related to property ownership, boundaries, and rights.",
+        "legal_provisions": "Property Law, Transfer of Property Act"
+    },
+    "Contract Disputes": {
+        "description": "Legal issues arising from breach of contract or contract interpretation.",
+        "legal_provisions": "Indian Contract Act, Specific Relief Act"
+    },
+    "Family Law": {
+        "description": "Legal matters related to marriage, divorce, custody, and inheritance.",
+        "legal_provisions": "Hindu Marriage Act, Special Marriage Act, Indian Succession Act"
+    },
+    "Criminal Law": {
+        "description": "Legal matters related to criminal offenses and procedures.",
+        "legal_provisions": "Indian Penal Code, Criminal Procedure Code"
+    },
+    "Labor and Employment": {
+        "description": "Legal issues related to employment, workplace rights, and labor laws.",
+        "legal_provisions": "Industrial Disputes Act, Factories Act, Minimum Wages Act"
+    },
+    "Intellectual Property": {
+        "description": "Legal matters related to patents, copyrights, trademarks, and trade secrets.",
+        "legal_provisions": "Copyright Act, Patents Act, Trademarks Act"
+    },
+    "Taxation": {
+        "description": "Legal matters related to tax laws and disputes.",
+        "legal_provisions": "Income Tax Act, GST Act"
+    }
+}

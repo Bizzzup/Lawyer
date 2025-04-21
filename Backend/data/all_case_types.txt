@@ -1,0 +1,582 @@
+{
+    "Consumer Credit Protection Laws": {
+        "description": "Legal provisions related to consumer credit protection.",
+        "legal_provisions": "Consumer Credit Protection Laws"
+    },
+    "Consumer Disputes": {
+        "description": "Disputes arising from the sale of goods or services to consumers.",
+        "legal_provisions": "Consumer Protection Act, 2019"
+    },
+    "Consumer Fraud": {
+        "description": "Cases involving deceptive practices that result in financial loss to consumers.",
+        "legal_provisions": "Consumer Protection Act, 2019"
+    },
+    "Consumer Protection Cases": {
+        "description": "Cases involving the rights of consumers against unfair trade practices.",
+        "legal_provisions": "Consumer Protection Act"
+    },
+    "Consumer Rights Violations": {
+        "description": "Cases involving violations of consumer rights.",
+        "legal_provisions": "Consumer Protection Act, 2019"
+    },
+    "Contract Disputes": {
+        "description": "Disputes arising from the breach of a legally binding agreement.",
+        "legal_provisions": "Indian Contract Act, 1872"
+    },
+    "Copyright Cases": {
+        "description": "Cases involving infringement of creative works.",
+        "legal_provisions": "Copyright Act, 1957"
+    },
+    "Corporate Fraud": {
+        "description": "Fraudulent activities within corporate entities.",
+        "legal_provisions": "Companies Act, 2013"
+    },
+    "Criminal Cases": {
+        "description": "Cases involving actions that are offenses against the state or public.",
+        "legal_provisions": "Indian Penal Code (IPC)"
+    },
+    "Cyber Harassment": {
+        "description": "Cases involving harassment conducted through digital platforms.",
+        "legal_provisions": "Information Technology Act, 2000"
+    },
+    "Cyberbullying Cases": {
+        "description": "Cases involving harassment or bullying conducted via digital platforms.",
+        "legal_provisions": "Cyber Laws"
+    },
+    "Cybercrime Cases": {
+        "description": "Cases involving crimes committed via the internet or using computer technology.",
+        "legal_provisions": "Information Technology Act, 2000"
+    },
+    "Cybersecurity Cases": {
+        "description": "Cases involving breaches of cybersecurity and data protection laws.",
+        "legal_provisions": "Information Technology Act, 2000; Data Protection Laws"
+    },
+    "Debt Collection": {
+        "description": "Disputes arising from the collection of debts, including harassment by creditors.",
+        "legal_provisions": "The Recovery of Debts Due to Banks and Financial Institutions Act, 1993"
+    },
+    "Defamation": {
+        "description": "The act of damaging someone's reputation through false statements.",
+        "legal_provisions": "Section 499 of the Indian Penal Code (IPC)"
+    },
+    "Defective Product Cases": {
+        "description": "Cases involving harm caused by defective or unsafe products.",
+        "legal_provisions": "Consumer Protection Act, 2019"
+    },
+    "Disability Discrimination Cases": {
+        "description": "Cases involving unfair treatment based on disability.",
+        "legal_provisions": "Disability Rights Laws"
+    },
+    "Discrimination Cases": {
+        "description": "Cases involving unfair treatment based on race, gender, or other characteristics.",
+        "legal_provisions": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989"
+    },
+    "Divorce": {
+        "description": "The legal dissolution of a marriage by a court or other competent body.",
+        "legal_provisions": "Hindu Marriage Act, 1955 or Special Marriage Act, 1954"
+    },
+    "Domestic Violence": {
+        "description": "Cases involving abuse or violence within a domestic setting.",
+        "legal_provisions": "Protection of Women from Domestic Violence Act, 2005"
+    },
+    "Drug Offenses": {
+        "description": "Cases involving illegal possession, sale, or trafficking of drugs.",
+        "legal_provisions": "Narcotic Drugs and Psychotropic Substances Act, 1985"
+    },
+    "E-commerce Disputes": {
+        "description": "Disputes arising from online transactions and services.",
+        "legal_provisions": "E-commerce Laws"
+    },
+    "Education Law Cases": {
+        "description": "Legal issues related to educational institutions and student rights.",
+        "legal_provisions": "Education Laws"
+    },
+    "Elder Abuse Cases": {
+        "description": "Cases involving the abuse or neglect of elderly individuals.",
+        "legal_provisions": "Elder Abuse Laws"
+    },
+    "Elder Law Cases": {
+        "description": "Legal issues affecting the elderly, including estate planning and elder abuse.",
+        "legal_provisions": "Elder Abuse Act"
+    },
+    "Election Cases": {
+        "description": "Disputes related to electoral processes and results.",
+        "legal_provisions": "Representation of the People Act, 1951"
+    },
+    "Employment Discrimination": {
+        "description": "Cases involving unfair treatment of employees based on race, gender, age, or other characteristics.",
+        "legal_provisions": "Equal Remuneration Act, 1976"
+    },
+    "Employment Disputes": {
+        "description": "Disputes between employers and employees regarding employment terms.",
+        "legal_provisions": "Industrial Disputes Act, 1947"
+    },
+    "Energy Law Cases": {
+        "description": "Legal issues related to energy production and distribution.",
+        "legal_provisions": "Energy Laws"
+    },
+    "Entertainment Law Cases": {
+        "description": "Disputes related to the entertainment industry, including contracts and copyright.",
+        "legal_provisions": "Copyright Act, Contract Law"
+    },
+    "Environmental Cases": {
+        "description": "Cases involving violations of environmental laws and regulations.",
+        "legal_provisions": "Environment Protection Act, 1986"
+    },
+    "Environmental Compliance Cases": {
+        "description": "Cases involving compliance with environmental regulations.",
+        "legal_provisions": "Environmental Protection Act"
+    },
+    "Environmental Violations": {
+        "description": "Cases involving breaches of environmental laws and regulations.",
+        "legal_provisions": "Environment Protection Act, 1986"
+    },
+    "Family Law Cases": {
+        "description": "Cases involving family-related issues such as custody, adoption, and guardianship.",
+        "legal_provisions": "Hindu Adoption and Maintenance Act, 1956"
+    },
+    "Financial Fraud": {
+        "description": "Cases involving fraudulent financial transactions or schemes.",
+        "legal_provisions": "Prevention of Money Laundering Act, 2002"
+    },
+    "Food Safety Cases": {
+        "description": "Cases involving violations of food safety regulations.",
+        "legal_provisions": "Food Safety and Standards Act, 2006"
+    },
+    "Franchise Disputes": {
+        "description": "Disputes between franchisors and franchisees.",
+        "legal_provisions": "Franchise Law"
+    },
+    "Franchise Law Cases": {
+        "description": "Disputes between franchisors and franchisees regarding agreements.",
+        "legal_provisions": "Franchise Law"
+    },
+    "Fraud": {
+        "description": "Wrongful or criminal deception intended to result in financial or personal gain.",
+        "legal_provisions": "Section 420 of the Indian Penal Code (IPC)"
+    },
+    "Gaming Law Cases": {
+        "description": "Legal issues related to gambling and gaming regulations.",
+        "legal_provisions": "Gaming Laws"
+    },
+    "Gender Discrimination Cases": {
+        "description": "Cases involving unfair treatment based on gender.",
+        "legal_provisions": "Constitutional Law"
+    },
+    "Government Contracts Cases": {
+        "description": "Disputes involving contracts with government entities.",
+        "legal_provisions": "Contract Law"
+    },
+    "Harassment": {
+        "description": "Unwanted and intrusive behavior that causes distress to another person.",
+        "legal_provisions": "Protection of Women from Domestic Violence Act, 2005"
+    },
+    "Healthcare Fraud": {
+        "description": "Fraudulent practices in healthcare services.",
+        "legal_provisions": "Medical Council Act"
+    },
+    "Health Law Cases": {
+        "description": "Legal issues related to healthcare, including malpractice and patient rights.",
+        "legal_provisions": "Health Care Laws"
+    },
+    "Housing Discrimination": {
+        "description": "Unfair treatment in housing based on protected characteristics.",
+        "legal_provisions": "Housing Laws"
+    },
+    "Human Rights Violations": {
+        "description": "Cases involving the infringement of fundamental human rights.",
+        "legal_provisions": "Protection of Human Rights Act, 1993"
+    },
+    "Humanitarian Law Cases": {
+        "description": "Legal issues related to humanitarian efforts and international aid.",
+        "legal_provisions": "International Humanitarian Law"
+    },
+    "Identity Theft": {
+        "description": "Cases involving the unauthorized use of someones personal information for fraudulent purposes.",
+        "legal_provisions": "Information Technology Act, 2000"
+    },
+    "Immigration Cases": {
+        "description": "Cases involving immigration status and rights.",
+        "legal_provisions": "Immigration Law"
+    },
+    "Indigenous Rights Cases": {
+        "description": "Cases involving rights of indigenous peoples.",
+        "legal_provisions": "Tribal Rights Laws"
+    },
+    "Industrial Disputes": {
+        "description": "Conflicts between workers and management.",
+        "legal_provisions": "Industrial Disputes Act, 1947"
+    },
+    "Inheritance Disputes": {
+        "description": "Disputes arising from the distribution of a deceased persons estate.",
+        "legal_provisions": "Indian Succession Act, 1925"
+    },
+    "Insurance Claims": {
+        "description": "Disputes arising from claims made under an insurance policy.",
+        "legal_provisions": "Insurance Act, 1938"
+    },
+    "Insurance Coverage Disputes": {
+        "description": "Disputes regarding the extent of coverage provided by an insurance policy.",
+        "legal_provisions": "Insurance Act, 1938"
+    },
+    "Insurance Disputes": {
+        "description": "Disputes arising from claims made under insurance policies.",
+        "legal_provisions": "Insurance Act, 1938"
+    },
+    "Insurance Fraud": {
+        "description": "Fraudulent claims made to insurance companies.",
+        "legal_provisions": "Insurance Act, Penal Code"
+    },
+    "Intellectual Property Cases": {
+        "description": "Cases involving the protection of inventions, designs, and artistic works.",
+        "legal_provisions": "Copyright Act, Patents Act, Trademarks Act"
+    },
+    "Intellectual Property Infringement": {
+        "description": "The unauthorized use of intellectual property rights.",
+        "legal_provisions": "Copyright Act, 1957; Patents Act, 1970"
+    },
+    "Intellectual Property Theft": {
+        "description": "Cases involving the unauthorized use of someones intellectual property.",
+        "legal_provisions": "Copyright Act, Patents Act, Trademarks Act"
+    },
+    "International Law Cases": {
+        "description": "Disputes involving international treaties and agreements.",
+        "legal_provisions": "International Law"
+    },
+    "International Trade Disputes": {
+        "description": "Disputes arising from international trade agreements and practices.",
+        "legal_provisions": "International Trade Law"
+    },
+    "Internet Law Cases": {
+        "description": "Legal issues related to internet usage and online activities.",
+        "legal_provisions": "Information Technology Act, 2000"
+    },
+    "Juvenile Cases": {
+        "description": "Cases involving minors in conflict with law.",
+        "legal_provisions": "Juvenile Justice Act, 2015"
+    },
+    "Kidnapping": {
+        "description": "Unlawful taking or transportation of a person.",
+        "legal_provisions": "Section 359-369 of IPC"
+    },
+    "Labor Law Cases": {
+        "description": "Disputes involving labor rights and employment conditions.",
+        "legal_provisions": "Labor Laws"
+    },
+    "Land Acquisition Cases": {
+        "description": "Disputes related to government acquisition of private land.",
+        "legal_provisions": "Land Acquisition Act"
+    },
+    "Land Disputes": {
+        "description": "Disputes regarding ownership, use, or boundaries of land.",
+        "legal_provisions": "Transfer of Property Act, 1882"
+    },
+    "Lease Disputes": {
+        "description": "Disputes arising from rental agreements and lease terms.",
+        "legal_provisions": "Transfer of Property Act, 1882"
+    },
+    "Legal Malpractice": {
+        "description": "Cases involving negligence by legal professionals.",
+        "legal_provisions": "Advocates Act, 1961"
+    },
+    "Maritime Law Cases": {
+        "description": "Legal issues related to shipping and navigation on navigable waters.",
+        "legal_provisions": "Maritime Law"
+    },
+    "Media Law Cases": {
+        "description": "Legal issues related to media and journalism.",
+        "legal_provisions": "Press Laws"
+    },
+    "Medical Malpractice": {
+        "description": "Cases involving negligence by healthcare professionals leading to patient harm.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Mental Health Cases": {
+        "description": "Legal issues related to mental health treatment and rights.",
+        "legal_provisions": "Mental Healthcare Act, 2017"
+    },
+    "Military Law Cases": {
+        "description": "Cases involving military personnel and regulations.",
+        "legal_provisions": "Military Laws"
+    },
+    "Mining Law Cases": {
+        "description": "Legal issues related to mining operations and regulations.",
+        "legal_provisions": "Mining Laws"
+    },
+    "Money Laundering": {
+        "description": "Cases involving concealment of illegally obtained money.",
+        "legal_provisions": "Prevention of Money Laundering Act, 2002"
+    },
+    "Murder": {
+        "description": "The unlawful killing of another person with intent.",
+        "legal_provisions": "Section 302 of the Indian Penal Code (IPC)"
+    },
+    "Negligence Cases": {
+        "description": "Cases where harm is caused by a failure to exercise reasonable care.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Negotiable Instruments Cases": {
+        "description": "Cases involving the dishonor of cheques and other negotiable instruments.",
+        "legal_provisions": "Negotiable Instruments Act, 1881"
+    },
+    "Nonprofit Organization Cases": {
+        "description": "Legal issues related to the formation and operation of nonprofit organizations.",
+        "legal_provisions": "Nonprofit Corporation Laws"
+    },
+    "Nuclear Law Cases": {
+        "description": "Legal issues related to nuclear energy and materials.",
+        "legal_provisions": "Nuclear Laws"
+    },
+    "Occupational Safety Cases": {
+        "description": "Cases involving workplace safety violations.",
+        "legal_provisions": "Occupational Safety Laws"
+    },
+    "Oil and Gas Law Cases": {
+        "description": "Legal issues related to oil and gas industry.",
+        "legal_provisions": "Petroleum Act"
+    },
+    "Patent Cases": {
+        "description": "Disputes involving patent rights and infringement.",
+        "legal_provisions": "Patents Act, 1970"
+    },
+    "Paternity Cases": {
+        "description": "Legal cases determining the biological father of a child.",
+        "legal_provisions": "Family Law"
+    },
+    "Pension Cases": {
+        "description": "Disputes related to pension benefits.",
+        "legal_provisions": "Pension Laws"
+    },
+    "Personal Injury": {
+        "description": "Cases where an individual suffers harm due to anothers negligence or intentional act.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Privacy Violations": {
+        "description": "Cases involving breaches of personal privacy rights.",
+        "legal_provisions": "Data Protection Laws"
+    },
+    "Product Liability": {
+        "description": "Cases involving harm caused by defective or unsafe products.",
+        "legal_provisions": "Consumer Protection Act, 2019"
+    },
+    "Professional Negligence": {
+        "description": "Cases involving negligence by professionals.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Property Disputes": {
+        "description": "Disputes regarding ownership, use, or boundaries of property.",
+        "legal_provisions": "Transfer of Property Act, 1882"
+    },
+    "Public Interest Litigation (PIL)": {
+        "description": "Legal action initiated for the protection of the public interest.",
+        "legal_provisions": "Article 32 and Article 226 of the Constitution of India"
+    },
+    "Public Law Cases": {
+        "description": "Cases involving the relationship between individuals and the government.",
+        "legal_provisions": "Administrative Law"
+    },
+    "Quarantine Law Cases": {
+        "description": "Legal issues related to quarantine regulations.",
+        "legal_provisions": "Public Health Laws"
+    },
+    "Racial Discrimination Cases": {
+        "description": "Cases involving unfair treatment based on race.",
+        "legal_provisions": "Constitutional Law"
+    },
+    "Railway Cases": {
+        "description": "Legal issues related to railway operations.",
+        "legal_provisions": "Railways Act"
+    },
+    "Real Estate Development Cases": {
+        "description": "Disputes related to real estate development projects.",
+        "legal_provisions": "Real Estate Laws"
+    },
+    "Real Estate Disputes": {
+        "description": "Disputes related to property transactions, ownership, and leasing.",
+        "legal_provisions": "Transfer of Property Act, 1882"
+    },
+    "Real Estate Investment Trust (REIT) Cases": {
+        "description": "Legal issues related to investment in real estate through REITs.",
+        "legal_provisions": "Securities Laws"
+    },
+    "Real Estate Transactions": {
+        "description": "Disputes arising from the buying, selling, or leasing of real estate.",
+        "legal_provisions": "Transfer of Property Act, 1882"
+    },
+    "Refugee Cases": {
+        "description": "Cases involving refugee status and rights.",
+        "legal_provisions": "Refugee Laws"
+    },
+    "Religious Freedom Cases": {
+        "description": "Cases involving religious rights and freedom.",
+        "legal_provisions": "Constitutional Law"
+    },
+    "Rent Control Cases": {
+        "description": "Disputes related to rent control regulations.",
+        "legal_provisions": "Rent Control Acts"
+    },
+    "Right to Information Cases": {
+        "description": "Cases involving access to public information.",
+        "legal_provisions": "Right to Information Act, 2005"
+    },
+    "Securities Fraud": {
+        "description": "Fraudulent activities related to the buying and selling of securities.",
+        "legal_provisions": "Securities and Exchange Board of India Act, 1992"
+    },
+    "Securities Regulation Cases": {
+        "description": "Cases involving the regulation of securities markets.",
+        "legal_provisions": "Securities and Exchange Board of India Act"
+    },
+    "Service Law Cases": {
+        "description": "Cases involving government service matters.",
+        "legal_provisions": "Service Laws"
+    },
+    "Sexual Assault": {
+        "description": "Any non-consensual sexual act or behavior.",
+        "legal_provisions": "Section 375 of the Indian Penal Code (IPC)"
+    },
+    "Sexual Harassment at Workplace": {
+        "description": "Cases involving unwanted sexual advances or behavior in a workplace setting.",
+        "legal_provisions": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013"
+    },
+    "Sexual Orientation Discrimination": {
+        "description": "Cases involving discrimination based on sexual orientation.",
+        "legal_provisions": "Constitutional Law"
+    },
+    "Shipping Law Cases": {
+        "description": "Legal issues related to shipping industry.",
+        "legal_provisions": "Shipping Laws"
+    },
+    "Social Media Cases": {
+        "description": "Disputes arising from content shared on social media platforms.",
+        "legal_provisions": "Defamation Laws, Privacy Laws"
+    },
+    "Social Security Cases": {
+        "description": "Disputes related to social security benefits and entitlements.",
+        "legal_provisions": "Social Security Act"
+    },
+    "Space Law Cases": {
+        "description": "Legal issues related to outer space activities and regulations.",
+        "legal_provisions": "Outer Space Treaty"
+    },
+    "Sports Law Cases": {
+        "description": "Legal issues related to sports, including contracts, doping, and disputes.",
+        "legal_provisions": "Sports Law Regulations"
+    },
+    "Spousal Support Cases": {
+        "description": "Disputes regarding financial support from one spouse to another after separation or divorce.",
+        "legal_provisions": "Family Law"
+    },
+    "Stalking": {
+        "description": "Unwanted pursuit or surveillance of another person.",
+        "legal_provisions": "Section 354D of IPC"
+    },
+    "Tax Disputes": {
+        "description": "Disputes arising from tax assessments and liabilities.",
+        "legal_provisions": "Income Tax Act, 1961"
+    },
+    "Tax Evasion Cases": {
+        "description": "Cases involving illegal practices to avoid paying taxes.",
+        "legal_provisions": "Income Tax Act"
+    },
+    "Technology Law Cases": {
+        "description": "Legal issues related to technology and digital services.",
+        "legal_provisions": "Information Technology Laws"
+    },
+    "Telecommunications Cases": {
+        "description": "Disputes involving telecommunications services and regulations.",
+        "legal_provisions": "Telecommunications Act"
+    },
+    "Tenancy Disputes": {
+        "description": "Disputes between landlords and tenants.",
+        "legal_provisions": "Rent Control Acts/"
+    },
+    "Theft": {
+        "description": "The unlawful taking of someone else's property with the intent to permanently deprive them of it.",
+        "legal_provisions": "Section 378 of the Indian Penal Code (IPC)"
+    },
+    "Tort Cases": {
+        "description": "Cases involving civil wrongs that cause harm or loss to individuals.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Trade Mark Infringement": {
+        "description": "Unauthorized use of a registered trademark.",
+        "legal_provisions": "Trade Marks Act"
+    },
+    "Trade Secret Theft": {
+        "description": "The unauthorized acquisition of confidential business information.",
+        "legal_provisions": "Indian Contract Act, 1872; Trade Secrets Act"
+    },
+    "Traffic Violations": {
+        "description": "Cases involving breaches of traffic laws and regulations.",
+        "legal_provisions": "Motor Vehicles Act, 1988"
+    },
+    "Transportation Law Cases": {
+        "description": "Disputes related to transportation regulations and liabilities.",
+        "legal_provisions": "Transportation Laws"
+    },
+    "Trust Law Cases": {
+        "description": "Legal issues related to trusts and their management.",
+        "legal_provisions": "Indian Trusts Act, 1882"
+    },
+    "Unfair Competition Cases": {
+        "description": "Cases involving unfair business practices.",
+        "legal_provisions": "Competition Act"
+    },
+    "Unfair Labor Practice Cases": {
+        "description": "Cases involving unfair treatment of workers.",
+        "legal_provisions": "Labor Laws"
+    },
+    "Utility Law Cases": {
+        "description": "Legal issues related to public utilities.",
+        "legal_provisions": "Utility Laws"
+    },
+    "Vaccine Injury Cases": {
+        "description": "Ccases involving injuries from vaccinations.",
+        "legal_provisions": "Public Health Laws"
+    },
+    "Veterans Rights Cases": {
+        "description": "Cases involving rights of military veterans.",
+        "legal_provisions": "Veterans Laws"
+    },
+    "Voting Rights Cases": {
+        "description": "Cases involving right to vote and electoral process.",
+        "legal_provisions": "Representation of People Act"
+    },
+    "Water Law Cases": {
+        "description": "Legal issues related to water rights and usage.",
+        "legal_provisions": "Water Laws"
+    },
+    "Whistleblower Cases": {
+        "description": "Cases involving individuals who report illegal or unethical activities within an organization.",
+        "legal_provisions": "Whistleblower Protection Act, 2014"
+    },
+    "Whistleblower Protection Cases": {
+        "description": "Cases involving protection for individuals who report illegal activities.",
+        "legal_provisions": "Whistleblower Protection Act"
+    },
+    "Wildlife Protection Cases": {
+        "description": "Cases involving protection of wildlife and their habitats.",
+        "legal_provisions": "Wildlife Protection Act, 1972"
+    },
+    "Wills and Probate": {
+        "description": "Legal processes involving the distribution of a deceased persons estate.",
+        "legal_provisions": "Indian Succession Act, 1925"
+    },
+    "Workers Compensation Cases": {
+        "description": "Cases involving compensation for workplace injuries.",
+        "legal_provisions": "Workers Compensation Laws"
+    },
+    "Wrongful Death": {
+        "description": "Cases involving death caused by negligence or misconduct.",
+        "legal_provisions": "Law of Torts"
+    },
+    "Wrongful Termination": {
+        "description": "Cases involving the illegal dismissal of an employee from their job.",
+        "legal_provisions": "Industrial Disputes Act, 1947"
+    },
+    "Zoning Law Cases": {
+        "description": "Cases involving land use and development regulations.",
+        "legal_provisions": "Urban Development Laws"
+    }
+} 

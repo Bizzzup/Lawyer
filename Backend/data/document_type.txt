@@ -1,0 +1,4 @@
+{
+    "document_type": "legal_document",
+    "description": "The type of document based on content analysis"
+}

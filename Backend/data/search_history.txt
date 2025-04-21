@@ -1,0 +1,10 @@
+Query: today tiruvannamalai weather
+Response: I do not have access to real-time information, including weather forecasts.  To find the current weather in Tiruvannamalai, I recommend checking a reliable weather website or app such as:
+
+ Google Weather: Simply search "weather in Tiruvannamalai" on Google.
+ AccuWeather: Search for Tiruvannamalai on the AccuWeather website or app.
+ Other weather apps:  Many weather apps are available for smartphones (e.g., WeatherBug, The Weather Channel).  Search your app store.
+
+These sources will provide you with up-to-date information on temperature, precipitation, wind, and other weather conditions for Tiruvannamalai.
+
+--------------------------------------------------

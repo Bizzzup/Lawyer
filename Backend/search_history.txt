@@ -1,0 +1,69 @@
+Query: Section: 300?
+Response: Section 300 deals with Murder.  It states, "Except in the cases hereinafter excepted, culpable homicide is murder".  It then goes on to define specific criteria for when culpable homicide is considered murder, such as when the act is done with the intention of causing death, or when the act is so dangerous that it must, in all probability, cause death.  The section also outlines exceptions where culpable homicide is *not* murder, such as grave and sudden provocation.
+
+--------------------------------------------------
+Query: what's the document about said?
+Response: This document is the Indian Penal Code.  It defines a wide range of offenses and their punishments, and it applies throughout India.  For example, it states, "This Act shall be called the Indian Penal Code, and shall extend to the whole of India."  It also explains that, "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India."  Basically, it lays out what acts are considered crimes in India and what the consequences are.
+
+--------------------------------------------------
+Query: Amount: Rs. 10?
+Response: There's no document provided to answer your question about the amount of Rs. 10.  Please provide the document so I can help.
+
+--------------------------------------------------
+Query: what's the purpose of Amount: Rs. 5,00,000 in the document?
+Response: It looks like you haven't provided the document content. I need the text of the document to tell you the purpose of the Rs. 5,00,000.  Please provide the document text so I can help!
+
+--------------------------------------------------
+Query: what's the document about?
+Response: Please provide me with the transcript so I can answer your question. I need the text of the document to understand what it's about.
+
+--------------------------------------------------
+Query: about 12 % interest?
+Response: The promissory note included a 12% annual interest rate.  The document states, "...the accused and his wife Regina Thangathai executed a promissory note for a sum of Rs. 76,00,000/- in favour of the complainant agreeing to pay on demand with 12 % interest per annum."  This agreement was made on October 13, 2016, after the complainant had loaned the accused a total of Rs. 76,00,000/- in three installments.
+
+--------------------------------------------------
+Query: what's document about?
+Response: This document is a judgement from a Chennai court.  Mrs. D. Poorani filed a complaint against Mr. S. Venkatesa Perumal under Section 138 of the Negotiable Instruments Act.  Mr. Perumal was found guilty and sentenced to one year imprisonment and ordered to pay Rs. 76,00,000 in compensation.  The case revolved around three dishonoured cheques issued by Mr. Perumal to Mrs. Poorani for a loan she provided him.  "The Accused, having been found guilty under Section 255(2) of the Code for the Offence under Section 138 of the N.I. Act... is convicted and sentenced to undergo Simple Imprisonment for One year and to pay a Compensation of Rs. 76,00,000/-."  The judgement details the arguments and evidence presented by both sides, including a promissory note and the complainant's proof of funds.  Mr. Perumal argued the cheques were misused, but the court found in favor of Mrs. Poorani.
+
+--------------------------------------------------
+Query: what's the document about?
+Response: This document is a judgment from a Chennai court regarding a bounced check case.  Mrs. D. Poorani lent Mr. S. Venkatesa Perumal Rs. 76,00,000.  He repaid her with checks that bounced.  The court found Mr. Perumal guilty under Section 138 of the Negotiable Instrument Act and sentenced him to one year imprisonment and compensation of Rs. 76,00,000.
+
+Key quote regarding the offense: "The Accused is stated to be committed offence punishable  Under  Section  138  of  Negotiable Instrument  Act."
+
+Key quote regarding the verdict:  "...the accused is convicted and sentenced to undergo Simple Imprisonment for One year and to pay a Compensation of Rs. 76,00,000/-..."
+
+--------------------------------------------------
+Query: Amount: Rs. 10?
+Response: The accused, Mr. S. Venkatesa Perumal, borrowed Rs. 76,00,000 from the complainant, Mrs. D. Poorani.  The accused issued three checks totaling this amount, all of which bounced due to insufficient funds.  
+
+The judgement states, "...the Accused, having been found guilty... is convicted and sentenced to undergo Simple Imprisonment for One year and to pay a Compensation of Rs. 76,00,000/-...".  The accused claimed he only borrowed Rs. 10 lakhs, stating, "My client states that when he was in need of an amount of rupees 10 lakhs my client has approached your client's husband and borrowed an amount of rupees 10 lakhs...".  However, the court found in favor of the complainant.
+
+--------------------------------------------------
+Query: what's happend in  Dated 14.03.2019 ?
+Response: On March 14, 2019, a check (Number 684595) for Rs. 20,52,000 was issued by Mr. S. Venkatesa Perumal to Mrs. D. Poorani.  This check was later deposited on April 4, 2019, and subsequently returned due to insufficient funds.  The document details the legal proceedings that followed.
+
+Supporting Evidence:
+
+* "Cheque No.AmountDateName of the Bank Branch Name 1684595Rs. 20,52,00014.03.2019Indian Overseas Bank Adayar Branch"
+* "presented the first and second above mentioned cheques on 04.04.2019"
+
+Additional Context: This check was one of three post-dated checks issued by the accused totaling Rs. 76,00,000.  The judgment finds the accused guilty of violating Section 138 of the Negotiable Instruments Act.
+
+--------------------------------------------------
+Query: Bank Branch Name?
+Response: The bank branches involved are all Adayar branches of the Indian Overseas Bank.  Specifically, the document mentions three checks from this bank and branch.  "Sl. NoCheque No.AmountDateName of the Bank Branch Name 1684595Rs. 20,52,00014.03.2019Indian Overseas Bank Adayar Branch 2684597Rs. 25,00,00028.03.2019Indian Overseas Bank Adayar Branch 3756632Rs. 30,48,00024.04.2019Indian Overseas Bank Adayar Branch".  One check (ExP3) was from ICICI Bank, but the complaint incorrectly stated it was from Indian Overseas Bank. This was noted as a typographical error.
+
+--------------------------------------------------
+Query: section 1.
+Response: Please provide the transcript so I can answer your query about section 1. I need the document content to give you a direct answer, supporting evidence, and additional context.
+
+--------------------------------------------------
+Query: Section: 143.
+Response: Please provide the document content for Section 143 so I can answer your query. I need the text of Section 143 to give you a direct answer, supporting evidence, and additional context.
+
+--------------------------------------------------
+Query: Amount: 4
+Response: There's no document provided, so I can't answer your question about "Amount: 4".  Please provide the transcript or document you're referring to. 
+
+--------------------------------------------------

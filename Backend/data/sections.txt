@@ -1,0 +1,987 @@
+[
+    {
+        "section_id": "143.",
+        "content": "Employment and utilization of other personnel; cost \nof copy reading and indexing.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "144.",
+        "content": "Cooperation of departments and agencies.145. Printing and distribution.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "146.",
+        "content": "Authorization of appropriations.\n§ 141. COLLECTION, PREPARATION AND \nPUBLICATION\nThe Archivist of the United States, hereinafter referred",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2013.",
+        "content": "(c) Application\nThe provisions of this section shall apply only to the \nDepartment of State and the Broadcasting Board of \nGovernors and to no other department or agency of the \nFederal Government.\nFOREIGN RELATIONS of the   \nUNITED STATES HISTORICAL SERIES\n(22 U.S.C. § 4352)\n§ 4352. RESPONSIBILITY FOR PREPARATION \nOF FRUS SERIES\n(a) In general\n(1)(A) The Historian of the Department of State shall \nbe responsible for the preparation of the FRUS series, \nincluding the selection of records, in acc...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1502.",
+        "content": "Custody and printing of Federal documents; ap -\npointment of Director.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1503.",
+        "content": "Filing documents with Office; notation of time; \npublic inspection; transmission for printing.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1505.",
+        "content": "Documents to be published in Federal Register.1506. Administrative Committee of the Federal Register; \nestablishment and composition; powers and duties",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1507.",
+        "content": "Filing document as constructive notice; publica -\ntion in Federal Register as presumption of validity; \njudicial notice; citation.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1508.",
+        "content": "Publication in Federal Register as notice of hearing.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1509.",
+        "content": "Cost of publication; appropriations authorized; \npenalty mail privilege.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1511.",
+        "content": "International agreements excluded from provisions \nof chapter. \n§ 1501. DEFINITIONS\nAs used in this chapter, unless the context otherwise re -\nquires—\n“document” means a Presidential proclamation or Exec -\nutive order and an order, regulation, rule, certificate, code \nof fair competition, license, notice, or similar instrument, \nissued, prescribed, or promulgated by a Federal agency;\n“Federal agency” or “agency” means the President of the \nUnited States, or an executive department, independent \n...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2107.",
+        "content": "Acceptance of Records for historical preservation.\n2107  note. President John F . Kennedy Assassination Re -\ncords Collection Act.\n2107  note. Establishment of National Database for Re -\ncords of Servitude, Emancipation, and Post-Civil \nWar Reconstruction",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2108.",
+        "content": "Responsibility for custody, use, and withdrawal of \nrecords.\n2108  note. Procedures to Prevent Unauthorized Remov -\nal of Classified Records from National Archives.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2109.",
+        "content": "Preservation, arrangement, duplication, exhibition \nof records.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2111.",
+        "content": "Material accepted for deposit.\n2111  note. Presidential Recordings and Materials Pres -\nervation Act.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2114.",
+        "content": "Preservation of motion-picture films, still pictures, \nand sound recordings.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2116.",
+        "content": "Legal status of reproductions; official seal; fees for \ncopies and reproductions.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2119.",
+        "content": "Cooperative agreements.\n§ 2101. DEFINITIONS\nAs used in this chapter—\n(1) “Presidential archival depository” means an institu -\ntion operated by the United States to house and preserve \nthe papers and books of a President or former President of \nthe United States, together with other historical materials \nbelonging to a President or former President of the Unit -ed States, or related to his papers or to the events of his \nofficial or personal life, and may include research facilities \nand museum ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2203.",
+        "content": "Management and custody of Presidential records.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2204.",
+        "content": "Restrictions on access to Presidential records.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2205.",
+        "content": "Exceptions to restriction on access.1 1",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2208.",
+        "content": "Claims of constitutionally based privilege against \ndisclosure",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2209.",
+        "content": "Disclosure requirement for official business \nconducted using non-official electronic messaging \naccounts\n§ 2201. DEFINITIONS\nAs used in this chapter—\n(1) The term “documentary material” means all books, \ncorrespondence, memoranda, documents, papers, pam -\nphlets, works of art, models, pictures, photographs, plats, \nmaps, films, and motion pictures, including, but not lim -\nited to, audio and visual records, or other electronic or \nmechanical recordations, whether in analog, digital, or \nany oth...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2302.",
+        "content": "Authority of the Board; seal; services; bylaws; rules; \nregulations; employees.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2303.",
+        "content": "Powers and obligations of Board; liability of mem -\nbers.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2304.",
+        "content": "Compensation of members; availability of trust \nfunds for expenses of Board.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2307.",
+        "content": "T rust Fund account; disbursements; sales of publi -\ncations and releases.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2308.",
+        "content": "Tax exemption for gifts.\n§ 2301. ESTABLISHMENT OF BOARD; \nMEMBERSHIPThe National Archives Trust Fund Board shall consist \nof the Archivist of the United States, as Chairman, and \nthe Secretary of the Treasury and the Chairman of the \nNational Endowment for the Humanities. Membership \non the Board is not an office within the meaning of the \nstatutes of the United States.\n§ 2302. AUTHORITY OF THE BOARD; SEAL; \nSERVICES; BYLAWS; RULES; REGULATIONS; \nEMPLOYEES\nIn carrying out the purposes of this ch...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2501.",
+        "content": "Creation; composition; appointment and tenure; \nmeetings.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2504.",
+        "content": "Duties; authorization of grants for collection, \nreproduction, and publication of documentary \nsource material.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2505.",
+        "content": "Special advisory committees; membership; reim -\nbursement.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2506.",
+        "content": "Records to be kept by grantees. \n§ 2501. CREATION; COMPOSITION; \nAPPOINTMENT AND TENURE; MEETINGS\n(a) The National Historical Publications and Records \nCommission shall consist of 15 members as follows:\n(1) the following ex officio members:\n(A) the Archivist of the United States, who shall be \nchairman;\n(B) the Librarian of Congress (or an alternate designated \nby the Librarian);\n(C) one Senator, appointed by the President of the \nSenate;\n(D) one Representative, appointed by the Speaker of \nthe ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2701.",
+        "content": "Advisory Committee on the Records of Congress.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2703.",
+        "content": "Functions of the Committee.2704. Powers of the Committee.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2901.",
+        "content": "Definitions.\n2901 note.   Records Center Revolving Fund.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2905.",
+        "content": "Establishment of Standards for selective retention \nof records; security measures.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2907.",
+        "content": "Records centers and centralized microfilming ser -\nvices.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2911.",
+        "content": "Disclosure requirement for official business con -\nducted using non-official electronic messaging ac -\ncounts. \n§ 2901. DEFINITIONS\nAs used in this chapter, and chapters 21, 25, 31, and 33 \nof this title—\n(1) the term “records” has the meaning given it by sec -\ntion 3301 of this title;\n(2) the term “records management” means the plan -\nning, controlling, directing, organizing, training, pro -moting, and other managerial activities involved with \nrespect to records creation, records maintenance a...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3101.",
+        "content": "Records management by agency heads; general duties.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3103.",
+        "content": "T ransfer of records to records centers.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3104.",
+        "content": "Certifications and determinations on transferred \nrecords.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3107.",
+        "content": "Authority of Comptroller General.\n§ 3101. RECORDS MANAGEMENT BY AGENCY \nHEADS; GENERAL DUTIES\nThe head of each Federal agency shall make and preserve \nrecords containing adequate and proper documentation \nof the organization, functions, policies, decisions, \nprocedures, and essential transactions of the agency and \ndesigned to furnish the information necessary to protect \nthe legal and financial rights of the Government and of \npersons directly affected by the agency’s activities.\n§ 3102. ESTABL...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3302.",
+        "content": "Regulations covering lists of records for disposal, \nprocedure for disposal, and standards for reproduc -\ntion.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3303.",
+        "content": "Lists and schedules of records to be submitted to \nArchivist by head of each Government agency.\n3303a.  Examination by Archivist of lists and schedules \nof records lacking preservation value; disposal of \nrecords.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3308.",
+        "content": "Disposal of similar records where prior disposal was \nauthorized.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3309.",
+        "content": "Preservation of claims of Government until settled \nin General Accounting Office; disposal authorized \nupon written approval of Comptroller General.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3310.",
+        "content": "Disposal of records constituting menace to health, \nlife, or property.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3311.",
+        "content": "Destruction of records outside continental United \nStates in time of war or when hostile action seems \nimminent; written report to Archivist.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3312.",
+        "content": "Photographs or microphotographs of records con -\nsidered as originals; certified reproductions admis -\nsible in evidence.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3313.",
+        "content": "Moneys from sale of records payable into the \nT reasury.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3314.",
+        "content": "Procedures for disposal of records exclusive.§ 3301. DEFINITION OF RECORDS\n(a) Records Defined.—\n(1) In general.—As used in this chapter, the term \n“records”—\n(A) includes all recorded information, regardless of \nform or characteristics, made or received by a Feder -\nal agency under Federal law or in connection with the \ntransaction of public business and preserved or appro -\npriate for preservation by that agency or its legitimate \nsuccessor as evidence of the organization, functions, \npolicies...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3504.",
+        "content": "Authority and functions of Director.\n  ***",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3515.",
+        "content": "Administrative Powers.\n  ***\n***\n§ 3501 NOTE  E-GOVERNMENT ACT OF 2002\nSEC. 207. ACCESSIBILITY, USABILITY, \nAND PRESERVATION OF GOVERNMENT \nINFORMATION.\n(a) Purpose.—The purpose of this section [of this \nnote] is to improve the methods by which Government \ninformation, including information on the Internet, \nis organized, preserved, and made accessible to the \npublic.\n \n(b) Definitions.—In this section [of this note], the term—\n(1) ‘Committee’ means the Interagency Committee on \nGovernment Infor...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3603.",
+        "content": "Chief Information Officers Council\n ***\n***\n§ 3603. CHIEF INFORMATION OFFICERS \nCOUNCIL\n(a) There is established in the executive branch a Chief \nInformation Officers Council.\n(b) The members of the Council shall be as follows:\n(1) The Deputy Director for Management of the Office \nof Management and Budget, who shall act as chairperson \nof the Council.\n(2) The Administrator of the Office of Electronic Gov -\nernment.\n(3) The Administrator of the Office of Information and \nRegulatory Affairs.(4) Th...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3504.",
+        "content": "(B) Consistent with the process under section 207(d) \nof the E-Government Act of 2002, standards and \nguidelines for categorizing Federal Government elec -\ntronic information to enable efficient use of technol -\nogies, such as through the use of extensible markup \nlanguage.\n(C) Standards and guidelines for Federal Govern -\nment computer system efficiency and security.\n(6) Work with the Office of Personnel Management \nto assess and address the hiring, training, classification, \nand professional d...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "2.3",
+        "content": "of this order;\n(ii) implement any policy or procedure developed pur -\nsuant to this order;\n(iii) to the extent permitted by law, make available to \nthe Performance Accountability Council, the Suitability \nExecutive Agent, or the Security Executive Agent such in -\nformation as may be requested to implement this order;\n(iv) ensure that all actions taken under this order take \naccount of the counterintelligence interests of the United \nStates, as appropriate; and\n(v) ensure that actions taken under...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3.5",
+        "content": "of this order, agencies shall consider the final decisions \nof the Panel.\nSec. 3.2.  Transferred Records.  (a) In the case of classified \nrecords transferred in conjunction with a transfer of \nfunctions, and not merely for storage purposes, the \nreceiving agency shall be deemed to be the originating \nagency for purposes of this order.\n(b) In the case of classified records that are not officially \ntransferred as described in paragraph (a) of this section, \nbut that originated in an agency that ha...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "3.3",
+        "content": "or 3.4 of this order, it shall refer copies of any request \nand the pertinent documents to the originating agency \nfor processing and may, after consultation with the \noriginating agency, inform any requester of the referral \nunless such association is itself classified under this order \nor its predecessors. In cases in which the originating \nagency determines in writing that a response under \nparagraph (a) of this section is required, the referring \nagency shall respond to the requester in acco...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "5.1",
+        "content": "of this order that reflects the coordinated views of the \naforementioned agencies.\nPART 4—SAFEGUARDING\nSec. 4.1.  General Restrictions on Access.  (a) A person \nmay have access to classified information provided that:\n(1) a favorable determination of eligibility for access \nhas been made by an agency head or the agency head’s \ndesignee;\n(2) the person has signed an approved nondisclosure \nagreement; and\n(3) the person has a need-to-know the information.\n(b) Every person who has met the standards...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1.8",
+        "content": "and 3.5 of this order.\n(c) Rules and procedures. The Panel shall issue bylaws, \nwhich shall be published in the Federal Register. The \nbylaws shall establish the rules and procedures that the \nPanel will follow in accepting, considering, and issuing",
+        "type": "document_section"
+    },
+    {
+        "section_id": "1974.",
+        "content": "(t) Effect of other laws\n(1) No agency shall rely on any exemption contained \nin section 552 of this title to withhold from an individual \nany record which is otherwise accessible to such individu -\nal under the provisions of this section.\n(2) No agency shall rely on any exemption in this sec -\ntion to withhold from an individual any record which is \notherwise accessible to such individual under the provi -\nsions of section 552 of this title.\n(u) Data Integrity Boards\n(1) Every agency conducting...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "L.",
+        "content": "98-497] shall not affect any proceedings, including \nnotices of proposed rulemaking, or any application for \nany license, permit, certificate, or financial assistance \npending on the effective date of this Act [Apr. 1, 1985] \nbefore the General Services Administration; but such pro -\nceedings and applications, to the extent that they relate \nto the functions so transferred, shall be continued. Or -\nders shall be issued in such proceedings, appeals shall be \ntaken therefrom, and payments shall be...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "Div.",
+        "content": "H, Title I, § 1301(b), Dec. 16, 2014, 128 Stat. \n2537, provided that:\n“(a) The provisions of this Act [see Short Title of 1976 \nAmendment note set out under section 101 of this title] \nrelating to the authority of the Administrator of General \nServices do not limit or repeal additional authorities \nprovided by statute or otherwise recognized by law.\n“(b) The provisions of this Act [see Short Title of 1976 \nAmendment note set out under section 101 of this title] \ndo not limit or repeal the author...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "L.",
+        "content": "103-272 § 5(a), July 5, 1994\nSynopsis : The purpose of this Act is to create a comprehensive statute governing the procedures \nagencies must follow when performing their functions.\nAMERICANS WITH DISABILITIES ACT OF 1990: 42 U.S.C § 12101 ET SEQ.\nPublic Law Number : Pub. L. 101-336, July 26, 1990\nSynopsis : The purposes of this Act are to establish a national mandate for the elimination of \ndiscrimination against persons with disabilities and to provide clear standards that address \ndiscriminati...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "C.",
+        "content": "At no time after the National Archives and Re -\ncords Service has accepted custody of both the negative \nand positive microfilm copies of the schedules of a cen -\nsus will both negative and positive copies of that census \nbe kept in the same city.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "D.",
+        "content": "After the lapse of seventy-two years from the enu -\nmeration date of a decennial census, the National Ar -\nchives and Records Service may disclose information \ncontained in these records for use in legitimate histori -\ncal, genealogical or other worth-while research, provid -\ned adequate precautions are taken to make sure that the \ninformation disclosed is not to be used to the detriment \nof any of the persons whose records are involved. Prior \nto the lapse of time specified above, the informati...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "I.",
+        "content": "All unreviewed World War II and earlier records, \nincluding:\nA. RG 18, Army Air Forces 1,722,400 pp.\nB. RG 65, Federal Bureau of Investigation 362,500 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "C.",
+        "content": "RG 127, United States Marine Corps 195,000 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "D.",
+        "content": "RG 216, Office of Censorship 112,500 pp.\nE. RG 226, Office of Strategic Services 415,000 pp.\nF . RG 60, United States Occupation Headquarters \n4,422,500 pp.\nG. RG 331, Allied Operational and Occupation Head -\nquarters, World War II (including 350 reels of Allied \nForce Headquarters) 3,097,500 pp.H. RG 332, United States Theaters of War, World War \nII 1,182,500 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "I.",
+        "content": "RG 338, Mediterranean Theater of Operations and \nEuropean Command 9,500,000 pp.Subtotal for World \nWar II and earlier 21.0 million pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "II.",
+        "content": "Post1945 Collections (Military and Civil)\nA. RG 19, Bureau of Ships, Pre1950 General Corre -\nspondence (selected records) 1,732,500 pp.\nB. RG 51, Bureau of the Budget, 52.12 Budget Prepa -\nration Branch, 1952–69 142,500 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "C.",
+        "content": "RG 72, Bureau of Aeronautics (Navy) (selected re -\ncords) 5,655,000 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "D.",
+        "content": "RG 166, Foreign Agricultural Service, Narrative Re -\nports,\n1955–61 1,272,500 pp.\nE. RG 313, Naval Operating Forces (selected records) \n407,500 pp.\nF . RG 319, Office of the Chief of Military History \nManuscripts and Background Papers (selected records) \n933,000 pp.\nG. RG 337, Headquarters, Army Ground Forces (se -\nlected records) 1,269,700 pp.\nH. RG 341, Headquarters, United States Air Force (se -\nlected records) 4,870,000 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "I.",
+        "content": "RG 389, Office of the Provost Marshal General (se -\nlected records) 448,000 pp.\nJ. RG 391, United States Army Regular Army Mobil \nUnits 240,000 pp.\nK. RG 428, General Records of the Department of the \nNavy (selected records) 31,250 pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "L.",
+        "content": "RG 472, Army Vietnam Collection (selected re -\ncords) 5,864,000 pp.\nSubtotal for Other 22.9 million pp.\nTOTAL 43.9 million pp.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BASIC\nLAWS",
+        "content": "and AUTHORITIES  of the NATIONAL ARCHIVES   \nand RECORDS ADMINISTRATION\nOffice of General Counsel\nNational Archives and Records Administration\nAdditional materials can be found on the web at: www.archives.gov",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BASIC\nLAWS",
+        "content": "and AUTHORITIES  of the NATIONAL ARCHIVES   \nand RECORDS ADMINISTRATION\nOffice of General Counsel\nNational Archives and Records Administration\nAdditional materials can be found on the web at: www.archives.gov",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL ELECTIONS AND VACANCIES",
+        "content": "§ 6. Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection 2\n§ 11. Disposition of certificates 2\n§ 12. Failure of certificates of electors to reach President of the Senate or Archivist of the United States;  \ndemand on State for certificate 3\n§ 13. Same; demand on district judge for certificate 3",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ADMISSIBILITY IN EVIDENCE",
+        "content": "The Archivist of the United States shall cause to be \ncompiled, edited, indexed, and published, the United \nStates Statutes at Large, which shall contain all the laws \nand concurrent resolutions enacted during each regular \nsession of Congress; all proclamations by the President \nin the numbered series issued since the date of the \nadjournment of the regular session of Congress next preceding; and also any amendments to the Constitution \nof the United States proposed or ratified pursuant \nto art...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ADMISSIBILITY IN EVIDENCE",
+        "content": "The edition of the laws and treaties of the United States, \npublished by Little and Brown, and the publications in \nslip or pamphlet form of the laws of the United States \nissued under the authority of the Archivist of the United \nStates, and the Treaties and Other International Acts \nSeries issued under the authority of the Secretary of State \nshall be competent evidence of the several public and \nprivate Acts of Congress, and of the treaties, international \nagreements other than treaties, and ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF CODE OF LAWS OF UNITED STATES AND \nSUPPLEMENTS AND DISTRICT OF COLUMBIA \nCODE AND SUPPLEMENTS",
+        "content": "In order to avoid duplication and waste—\n(a) Publishing in slip or pamphlet form or in Statutes at \nLarge.—Publication in slip or pamphlet form or in the \nStatutes at Large of any of the volumes or publications \nenumerated in sections 202 and 203 of this title, shall, \nin event of enactment, be dispensed with whenever the \nCommittee on the Judiciary of the House of Represen -\ntatives so directs the Archivist of the United States;\n(b) Curtailing number of copies published.—Curtail -\nment of the n...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TRANSMISSION TO ARCHIVIST OF THE",
+        "content": "UNITED STATES AND TO CONGRESS; PUBLIC",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INSPECTION",
+        "content": "It shall be the duty of the executive of each State, as soon \nas practicable after the conclusion of the appointment of \nthe electors in such State by the final ascertainment, under \nand in pursuance of the laws of such State providing for \nsuch ascertainment, to communicate by registered mail \nunder the seal of the State to the Archivist of the United \nStates a certificate of such ascertainment of the electors \nappointed, setting forth the names of such electors and \nthe canvass or other ascert...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ELECTORS TO REACH PRESIDENT OF \nTHE SENATE OR ARCHIVIST OF THE",
+        "content": "UNITED STATES; DEMAND ON STATE FOR",
+        "type": "document_section"
+    },
+    {
+        "section_id": "CERTIFICATE",
+        "content": "When no certificate of vote and list mentioned in \nsections 9 and 11 of this title from any State shall have been received by the President of the Senate or by the \nArchivist of the United States by the fourth Wednesday \nin December, after the meeting of the electors shall have \nbeen held, the President of the Senate or, if he be absent \nfrom the seat of government, the Archivist of the United \nStates shall request, by the most expeditious method \navailable, the secretary of state of the State t...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "FOR CERTIFICATE",
+        "content": "When no certificates of votes from any State shall have \nbeen received at the seat of government on the fourth \nWednesday in December, after the meeting of the electors \nshall have been held, the President of the Senate or, if he \nbe absent from the seat of government, the Archivist of \nthe United States shall send a special messenger to the \ndistrict judge in whose custody one certificate of votes \nfrom that State has been lodged, and such judge shall \nforthwith transmit that list by the hand o...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "FORMER PRESIDENTS ACT",
+        "content": "(3 U.S.C. § 102 note)\n(a) Each former President shall be entitled for the remainder \nof his life to receive from the United States a monetary \nallowance at a rate per annum, payable monthly by the \nSecretary of the Treasury, which is equal to the annual rate \nof basic pay, as in effect from time to time, of the head of an \nexecutive department, as defined in section 101 of title 5, \nUnited States Code [section 101 of Title 5]. However, such \nallowance shall not be paid for any period during whic...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OFFICIAL TERRITORIAL PAPERS",
+        "content": "(4 U.S.C. Chapter 5)\nSec.\n141. Collection, preparation, and publication.\n142. Appointment of experts.\n143. Employment and utilization of other personnel; cost \nof copy reading and indexing.\n144. Cooperation of departments and agencies.145. Printing and distribution.\n146. Authorization of appropriations.\n§ 141. COLLECTION, PREPARATION AND",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PUBLICATION",
+        "content": "The Archivist of the United States, hereinafter referred",
+        "type": "document_section"
+    },
+    {
+        "section_id": "READING AND INDEXING",
+        "content": "(a) In carrying out his functions under this chapter, the \nArchivist may employ such clerical assistants as may be \nnecessary.\n(b) The work of copy reading and index making for the \npublication of the papers described in section 141 of this \ntitle shall be done by the regular editorial staff of the Na -\ntional Archives and Records Administration, and the cost \nof this particular phase of the work (prorated each month \naccording to the number of hours spent and the annual \nsalaries of the clerks ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND AGENCIES",
+        "content": "The heads of the several executive departments and \nindependent agencies and establishments shall cooperate \nwith the Archivist in the work prescribed by section 141 of this title by permitting access to any records deemed \nby him to be necessary to the completion of such work.\n§ 145. PRINTING AND DISTRIBUTION\n(a) The Director of the Government Publishing Office \nshall print and bind each volume of the official papers \nrelating to the Territories of the United States as provided \nfor in this cha...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "APPROPRIATIONS",
+        "content": "For the purposes of this chapter, there are authorized to \nbe appropriated, out of any money in the Treasury not \notherwise appropriated, sums of not more than $50,000 \nfor any one fiscal year.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ENTITIES AND DESIGNATED FEDERAL \nENTITIES",
+        "content": "(a) * * *\n(1) the term “Federal entity” means any Government \ncorporation (within the meaning of section 103(1) of title \n5, United States Code), any Government controlled cor -\nporation (within the meaning of section 103(2) of such \ntitle), or any other entity in the Executive branch of the \nGovernment, or any independent regulatory agency, but \ndoes not include—\n(A) an establishment (as defined under section 12(2) \nof this Act) or part of an establishment;\n(B) a designated Federal entity (as d...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "UNITED STATES HISTORICAL SERIES",
+        "content": "(22 U.S.C. § 4352)\n§ 4352. RESPONSIBILITY FOR PREPARATION",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF FRUS SERIES",
+        "content": "(a) In general\n(1)(A) The Historian of the Department of State shall \nbe responsible for the preparation of the FRUS series, \nincluding the selection of records, in accordance with the \nprovisions of this chapter.(B) The Advisory Committee on Historical Diplomatic \nDocumentation shall review records, and shall \nadvise and make recommendations to the Historian \nconcerning all aspects of preparation and publication \nof the FRUS series, including, in accordance with the \nprocedures contained in sec...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OKLAHOMA HISTORICAL SOCIETY",
+        "content": "(25 U.S.C. § 199a)\n§ 199 a. CUSTODY OF RECORDS; OKLAHOMA",
+        "type": "document_section"
+    },
+    {
+        "section_id": "HISTORICAL SOCIETY",
+        "content": "Title to records of Indian tribes heretofore placed with the \nOklahoma Historical Society of the State of Oklahoma \nby the Secretary of the Interior shall remain vested in \nthe United States and such records shall be held by the \nsaid society under rules and regulations prescribed by the \nArchivist of the United States: Provided, That copies of \nany such records, documents, books, or papers held by \nthe said society when certified by the secretary or chief \nclerk thereof under its seal, or by th...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INTERNAL REVENUE CODE",
+        "content": "(26 U.S.C. § 6103)\n§ 6103 CONFIDENTIALITY AND DISCLOSURE",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF RETURNS AND RETURN INFORMATION",
+        "content": "***\n(l)(17) Disclosure to National Archives and Records \nAdministration The Secretary shall, upon written request from the \nArchivist of the United States, disclose or authorize the \ndisclosure of returns and return information to officers \nand employees of the National Archives and Records \nAdministration for purposes of, and only to the extent \nnecessary in, the appraisal of records for destruction or",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INDEPENDENT COUNSEL",
+        "content": "(28 U.S.C. § 594)  \nThe Independent Counsel Act expired in 1999, however, this section remains in effect per 28 U.S.C. ∆ 599.\n§ 594. AUTHORITY AND DUTIES OF AN",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INDEPENDENT COUNSEL",
+        "content": "* * *\n(k) Custody of records of an independent counsel.\n(1) T ransfer of records.\nUpon termination of the office of an independent \ncounsel, that independent counsel shall transfer to \nthe Archivist of the United States all records which \nhave been created or received by that office. Before this \ntransfer, the independent counsel shall clearly identify \nwhich of these records are subject to rule 6(e) of the \nFederal Rules of Criminal Procedure as grand jury ma -\nterials and which of these record...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PUBLIC PRINTER",
+        "content": "The Archivist of the United States shall furnish to \nthe Director of the Government Publishing Office \na copy of every Act and joint resolution, as soon as \npossible after its approval by the President, or after it \nhas become a law under the Constitution without his \napproval.\n§ 711.  PRINTING ACTS, JOINT RESOLUTIONS,",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND TREATIES",
+        "content": "The Director of the Government Publishing Office, on \nreceiving from the Archivist of the United States a copy of \nan Act or joint resolution, or from the Secretary of State, a \ncopy of a treaty, shall print an accurate copy and transmit \nit in duplicate to the Archivist of the United States or to \nthe Secretary of State, as the case may be, for revision. On the return of one of the revised duplicates, he shall make \nthe marked corrections and print the number specified by \nsection 709 of this t...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REFERENCES IN MARGINS",
+        "content": "The Archivist of the United States shall include in the \nreferences in margins of the United States\nStatutes at Large the number of the bill or joint resolution \n(designating S. for Senate bill, H.R. for House bill, S.J. \nRes. for Senate joint resolution and H.J. Res. for House \njoint resolutions, as the case may be) under which each \nAct was approved and became a law, the reference in the \nmargins to be placed within brackets immediately under \nthe date of the approval of the Act at the beginni...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DIRECTOR",
+        "content": "The Archivist of the United States, acting through the Of -\nfice of the Federal Register, is charged with the custody \nand, together with the Director of the Government Pub -\nlishing Office, with the prompt and uniform printing and \ndistribution of the documents required or authorized to \nbe published by section 1505 of this title. \nThere shall be at the head of the Office a director, ap -\npointed by, and who shall act under the general direction \nof, the Archivist of the United States in carryi...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TRANSMISSION FOR PRINTING",
+        "content": "The original and two duplicate originals or certified cop -\nies of a document required or authorized to be published \nbysection 1505 of this title shall be filed with the Office of \nthe Federal Register, which shall be open for that purpose \nduring all hours of the working days when the National \nArchives Building is open for official business. The Archi -\nvist of the United States shall cause to be noted on the original and duplicate originals or certified copies of each \ndocument the day and h...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "FEDERAL REGISTER",
+        "content": "(a) Proclamations and Executive Orders; documents \nhaving general applicability and legal effect; documents \nrequired to be published by Congress. There shall be pub -\nlished in the Federal Register—\n(1) Presidential proclamations and Executive orders, \nexcept those not having general applicability and legal ef -\nfect or effective only against Federal agencies or persons \nin their capacity as officers, agents, or employees thereof;\n(2) documents or classes of documents that the Presi -\ndent may ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AS NOTICE OF HEARING",
+        "content": "A notice of hearing or of opportunity to be heard, re -\nquired or authorized to be given by an Act of Congress, or \nwhich may otherwise properly be given, shall be deemed \nto have been given to all persons residing within the States \nof the Union and the District of Columbia, except in cas -\nes where notice by publication is insufficient in law, when \nthe notice is published in the Federal Register at such a \ntime that the period between the publication and the date \nfixed in the notice for the ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "EXCLUDED FROM PROVISIONS OF CHAPTER",
+        "content": "This chapter does not apply to treaties, conventions, \nprotocols, and other international agreements, or procla -\nmations thereof by the President.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "NATIONAL ARCHIVES AND RECORDS \nADMINISTRATION",
+        "content": "The Director of the Government Publishing Office shall \nprint and deliver to the National Archives and Records \nAdministration for use by the Archivist of the United \nStates, including use by the Presidential Library estab -\nlished for the President during whose term the documents \nwere issued, which shall be chargeable to Congress three \ncopies each of the following publications:\nHouse documents and public reports, bound;\nSenate documents and public reports, bound;\nSenate and House journals, bo...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "HISTORICAL PRESERVATION",
+        "content": "(a) In general.—When it appears to the Archivist to be \nin the public interest, the Archivist may—\n(1) accept for deposit with the National Archives of the \nUnited States the records of a Federal agency, the Con -\ngress, the Architect of the Capitol, or the Supreme Court \ndetermined by the Archivist of the United States to have \nsufficient historical or other value to warrant their contin -\nued preservation by the United States Government;\n(2) direct and effect the transfer to the National Ar -\n...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TION ACT",
+        "content": "Sec. 1. Short Title\nThis Act may be cited as the ‘President John F . Kennedy \nAssassination Records Collection Act of 1992’.\nSec. 2. Findings, declarations, and purposes\n(a) Findings and declarations.—The Congress finds and \ndeclares that—\n(1) all Government records related to the assassination \nof President John F . Kennedy should be preserved for his -\ntorical and governmental purposes;\n(2) all Government records concerning the assassina -\ntion of President John F . Kennedy should carry a pre ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND WITHDRAWAL OF RECORDS",
+        "content": "(a) The Archivist shall be responsible for the custody, \nuse, and withdrawal of records transferred to him. When \nrecords, the use of which is subject to statutory limitations",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PREVENT UNAUTHORIZED REMOVAL OF \nCLASSIFIED RECORDS FROM NATIONAL",
+        "content": "ARCHIVES.\n(a) Classified Records.—Not later than 90 days after \nthe date of the enactment of this Act, the Archivist shall \nprescribe internal procedures to prevent the unauthorized \nremoval of classified records from the National Archives \nand Records Administration or the destruction or damage \nof such records, including when such records are accessed \nor searched electronically. Such procedures shall include, \nat a minimum, the following prohibitions:\n(1) An individual, other than covered per...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL RECORDINGS AND \nMATERIALS PRESERVATION ACT",
+        "content": "Delivery and Retention of Certain Presidential Materials\nSec. 101. (a) Notwithstanding any other law or any \nagreement or understanding made pursuant to section \n2111 of title 44, United States Code [this section] any \nFederal employee in possession shall deliver, and the \nArchivist of the United States (hereinafter in this title \nreferred to as the ‘Archivist’) shall receive, obtain, or \nretain, complete possession and control of all original \ntape recordings of conversations which were recorde...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DEPOSITORY",
+        "content": "(a)(1) When the Archivist considers it to be in the public \ninterest, the Archivist may—\n(A)(i) accept, for and in the name of the United States, \nland, a facility, and equipment offered as a gift to the \nUnited States for the purpose of creating a Presidential \narchival depository;(ii) take title to the land, facility, and equipment on \nbehalf of the United States; and\n(iii) maintain, operate, and protect the land, facility, \nand equipment as a Presidential archival depository and \nas part of t...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BETWEEN STATES",
+        "content": "The Archivist may receive duplicate originals or \nauthenticated copies of agreements or compacts entered \ninto under the Constitution and laws of the United \nStates, between States of the Union, and take necessary \nactions for their preservation and servicing.\n \n§ 2114.  PRESERVATION OF AUDIO AND",
+        "type": "document_section"
+    },
+    {
+        "section_id": "VISUAL RECORDS",
+        "content": "The Archivist may make and preserve audio and visual \nrecords, including motion-picture films, still photographs, \nand sound recordings, in analog, digital, or any other form, \npertaining to and illustrative of the historical development \nof the United States Government and its activities, and \nprovide for preparing, editing, titling, scoring, processing, \nduplicating, reproducing, exhibiting, and releasing for \nnon-profit educational purposes, motion-picture films, \nstill photographs, and sound...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "VIOLATIONS",
+        "content": "(a) In carrying out the duties and responsibilities under",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REPRODUCTIONS",
+        "content": "(a) When records that are required by statute to be \nretained indefinitely have been reproduced by pho -\ntographic, microphotographic, digital, or other pro -\ncesses, in accordance with standards established by the \nArchivist the indefinite retention by the photograph -\nic, microphotographic, digital, or other reproductions \nconstitutes compliance with the statutory requirement \nfor the indefinite retention of the original records. \nThe reproductions, as well as reproductions made un -\nder regul...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "FATHERS DOCUMENTS",
+        "content": "The Archivist may enter into a cooperative agreement to pro -\nvide online access to the published volumes of the papers of—\n(1) George Washington;\n(2) Alexander Hamilton;(3) Thomas Jefferson;\n(4) Benjamin Franklin;\n(5) John Adams;\n(6) James Madison; and\n(7) other prominent historical figures, as determined \nappropriate by the Archivist of the United States.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL RECORDS",
+        "content": "(44 U.S.C. Chapter 22)\nSec.\n2201. Definitions.\n2202. Ownership of Presidential records.\n2203. Management and custody of Presidential records.\n2204. Restrictions on access to Presidential records.\n2205. Exceptions to restriction on access.1 1\n2206. Regulations.\n2207. Vice-Presidential records.\n2208.  Claims of constitutionally based privilege against \ndisclosure\n2209.  Disclosure requirement for official business \nconducted using non-official electronic messaging \naccounts\n§ 2201. DEFINITIONS\nAs ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS",
+        "content": "The United States shall reserve and retain complete \nownership, possession, and control of Presidential records; \nand such records shall be administered in accordance with \nthe provisions of this chapter.\n§ 2203. MANAGEMENT AND CUSTODY OF",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL RECORDS",
+        "content": "(a) Through the implementation of records manage -\nment controls and other necessary actions, the President \nshall take all such steps as may be necessary to assure that \nthe activities, deliberations, decisions, and policies that \nreflect the performance of the President’s constitutional, \nstatutory, or other official or ceremonial duties are ade -\nquately documented and that such records are preserved \nand maintained as Presidential records pursuant to the \nrequirements of this section and oth...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL RECORDS",
+        "content": "(a) Prior to the conclusion of a President’s term of office \nor last consecutive term of office, as the case may be, the \nPresident shall specify durations, not to exceed 12 years, \nfor which access shall be restricted with respect to infor -\nmation, in a Presidential record, within one or more of \nthe following categories:\n(1)(A) specifically authorized under criteria established \nby an Executive order to be kept secret in the interest of \nnational defense or foreign policy and (B) in fact prop...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BASED PRIVILEGE AGAINST DISCLOSURE",
+        "content": "(a)(1) When the Archivist determines under this chap -\nter to make available to the public any Presidential record",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ACCOUNTS",
+        "content": "(a) In general.—The President, the Vice President, or a \ncovered employee may not create or send a Presidential \nor Vice Presidential record using a non-official electronic \nmessage account unless the President, Vice President, or \ncovered employee—\n(1) copies an official electronic messaging account of \nthe President, Vice President, or covered employee in \nthe original creation or transmission of the Presidential \nrecord or Vice Presidential record; or\n(2) forwards a complete copy of the Presi...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "NATIONAL ARCHIVES TRUST FUND BOARD",
+        "content": "(44 U.S.C. Chapter 23)\nSec.\n2301. Establishment of Board; membership.\n2302. Authority of the Board; seal; services; bylaws; rules; \nregulations; employees.\n2303. Powers and obligations of Board; liability of mem -\nbers.\n2304. Compensation of members; availability of trust \nfunds for expenses of Board.\n2305. Acceptance of gifts.\n2306. Investment of funds.\n2307. T rust Fund account; disbursements; sales of publi -\ncations and releases.\n2308. Tax exemption for gifts.\n§ 2301. ESTABLISHMENT OF BOARD;",
+        "type": "document_section"
+    },
+    {
+        "section_id": "EMPLOYEES",
+        "content": "In carrying out the purposes of this chapter, the Board—\n(1) may adopt an official seal, which shall be judicially \nnoticed;\n(2) may utilize on a reimbursable basis the services and \npersonnel of the National Archives and Records Adminis -\ntration necessary (as determined by the Archivist) to assist",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AVAILABILITY OF TRUST FUNDS FOR \nEXPENSES OF THE BOARD",
+        "content": "Compensation may not be paid to the members of the \nBoard for their services as members. Costs incurred by \nthe Board in carrying out its duties under this chapter, \nincluding the obligations necessarily incurred by the \nmembers of the Board in the performance of their duties \nand the compensation of persons employed by the Board, \nshall be paid by the Archivist of the United States from \ntrust funds available to the Board for this purpose. The \nBoard, by resolution, may authorize the transfer o...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND RELEASES",
+        "content": "The income from trust funds held by the Board and the \nproceeds from the sale of securities and other personal \nproperty, as and when collected, shall be covered into the \nTreasury of the United States in a trust fund account to \nbe known as the National Archives Trust Fund, subject \nto disbursement on the basis of certified vouchers of \nthe Archivist of the United States (or his designee) for \nactivities approved by the Board and in the interest of \nthe national archival and records activities ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TRANSPORTATION EXPENSES",
+        "content": "(a) The Commission may appoint, without reference to \nchapter 51 of title 5, an executive director. The Chairman \nmay appoint such other employees as may be necessary to \ncarry out the purposes of this chapter.\n(b) Members of the Commission shall be allowed travel \nexpenses (including per diem allowance in lieu of sub -\nsistence) in the same amount and to the same extent as",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AUTHORIZATION FOR APPROPRIATIONS",
+        "content": "(a) The Commission shall make plans, estimates, and \nrecommendations for historical works and collections of \nsources it considers appropriate for preserving, publishing \nor otherwise recording at the public expense. The Chair -\nman of the Commission shall transmit to the President \nand the Congress from time to time, and at least biennial -\nly, the plans, estimates, and recommendations developed \nand approved by the Commission.\n(b) The Commission shall cooperate with, assist and \nencourage appr...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ADVISORY COMMITTEE ON THE RECORDS OF CONGRESS",
+        "content": "(44 U.S.C. Chapter 27)\nSec.\n2701. Advisory Committee on the Records of Congress.\n2702. Membership; chairman; meetings.\n2703. Functions of the Committee.2704. Powers of the Committee.\n2705. Compensation and travel expenses.\n2706. Administrative provisions.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS OF CONGRESS",
+        "content": "(a) There is established the Advisory Committee on the \nRecords of Congress (hereafter in this chapter referred to \nas the Committee).\n(b) The Committee shall be subject to the provisions \nof the Federal Advisory Committee Act (5 U.S.C. App.), \nexcept that the Committee shall be of permanent dura -\ntion, notwithstanding any provision of section 14 of the \nFederal Advisory Committee Act.\n§ 2702. MEMBERSHIP; CHAIRMAN; MEETINGS\n(a)(1) The Committee shall consist of the eleven mem -\nbers including—\n...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "EXPENSES",
+        "content": "BASIC LAWS and AUTHORITIES  | 51\tA member of the Committee may not be paid \ncompensation for service performed as a member of the \nCommittee. However, members of the Committee shall \nbe allowed travel expenses, including per diem in lieu of \nsubsistence, at rates authorized for employees of agencies \nunder subchapter I of chapter 57 of title 5, United States \nCode, while away from their homes or regular places of \nbusiness in the performance of service for the Committee.\n§ 2706. ADMINISTRATIVE P...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS MANAGEMENT BY THE  \nARCHIVIST OF THE UNITED STATES",
+        "content": "(44 U.S.C. Chapter 29)\nSec.\n2901. Definitions.\n2901 note.   Records Center Revolving Fund.\n2902. Objectives of records management.\n2903. Custody and control of property.\n2904. General responsibilities of Administrator.\n2905. Establishment of Standards for selective retention \nof records; security measures.\n2906. Inspection of agency records.\n2907.  Records centers and centralized microfilming ser -\nvices.\n2908. Regulations.\n2909. Retention of records. \n2910. Preservation of Freedmen’s Bureau rec...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REVOLVING FUND",
+        "content": "(a) Establishment of fund.—There is hereby established in \nthe Treasury a revolving fund to be available for expenses \n(including expenses for uniforms or allowances for uniforms \nas authorized by subchapter I of chapter 59 of title 5 [5 \nU.S.C.A. § 5901 et seq.]) and equipment necessary to provide \nfor storage and related services for all temporary and pre-\narchival Federal records, which are to be stored or stored at \nFederal National and Regional Records Centers by agencies \nand other instrum...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "MANAGEMENT",
+        "content": "It is the purpose of this chapter, and chapters 21, 31, and \n33 of this title, to require the establishment of standards \nand procedures to assure efficient and effective records \nmanagement. Such records management standards and \nprocedures shall seek to implement the following goals:(1) Accurate and complete documentation of the poli -\ncies and transactions of the Federal Government.\n(2) Control of the quantity and quality of records pro -\nduced by the Federal Government.\n(3) Establishment and...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PROPERTY",
+        "content": "(a) The Archivist shall have immediate custody and \ncontrol of the National Archives Building and its con -\ntents, and may design, construct, purchase, lease, main -\ntain, operate, protect, and improve buildings used by him \nfor the storage of records of Federal agencies in the Dis -\ntrict of Columbia and elsewhere.\n(b) When the Archivist considers it to be in the public \ninterest, the Archivist may charge and collect reasonable \nfees from the public for the occasional, non-official use of \nroom...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS MANAGEMENT",
+        "content": "(a) The Archivist shall provide guidance and assistance \nto Federal agencies with respect to ensuring adequate and",
+        "type": "document_section"
+    },
+    {
+        "section_id": "SECURITY MEASURES",
+        "content": "(a) The Archivist shall establish standards for the se -\nlective retention of records of continuing value, and \nassist Federal agencies in applying the standards to re -\ncords in their custody. The Archivist shall notify the \nhead of a Federal agency of any actual, impending, or \nthreatened unlawful removal, defacing, alteration, or \ndestruction of records in the custody of the agency that \nshall come to the Archivist’s attention, and assist the \nhead of the agency in initiating action through t...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "CENTRALIZED MICROFILMING SERVICES",
+        "content": "The Archivist may establish, maintain, and operate records \ncenters and centralized microfilming or digitization \nservices for Federal agencies.\n§ 2908. REGULATIONS\nSubject to applicable law, the Archivist shall promulgate \nregulations governing the transfer of records from the \ncustody of one executive agency to that of another.\n§ 2909. RETENTION OF RECORDS\nThe Archivist may empower a Federal agency, to retain \nrecords for a longer period than that specified in disposal \nschedules; and may with...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BUREAU RECORDS",
+        "content": "The Archivist shall preserve the records of the Bureau \nof Refugees, Freedmen, and Abandoned Lands, \ncommonly referred to as the “Freedmen’s Bureau”, by \nusing—(1) microfilm technology for preservation of the doc -\numents comprising these records so that they can be \nmaintained for future generations; and\n(2) the results of the pilot project with the University \nof Florida to create future partnerships with Howard \nUniversity and other institutions for the purposes of \nindexing these records and...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ACCOUNTS",
+        "content": "(a) In general.—An officer or employee of an executive \nagency may not create or send a record using a non-offi -\ncial electronic messaging account unless such officer or \nemployee—\n(1) copies an official electronic messaging account \nof the officer or employee in the original creation or \ntransmission of the record; or\n(2) forwards a complete copy of the record to an official \nelectronic messaging account of the officer or employee \nnot later than 20 days after the original creation or \ntransmi...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "MANAGEMENT",
+        "content": "The head of each Federal agency shall establish and \nmaintain an active, continuing program for the economical \nand efficient management of the records of the agency. \nThe program, among other things, shall provide for\n(1) effective controls over the creation and over the main -\ntenance and use of records in the conduct of current business;\n(2) cooperation with the Archivist in applying stan -\ndards, procedures, and techniques designed to improve \nthe management of records, promote the maintenan...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "CENTERS",
+        "content": "When the head of a Federal agency determines that such action may affect substantial economies or increased \noperating efficiency, the head of such agency shall provide \nfor the transfer of records to a records center maintained \nand operated by the Archivist, or, when approved by the \nArchivist, to a center maintained and operated by the \nhead of the Federal agency.\n§ 3104.  CERTIFICATIONS AND",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DETERMINATIONS ON TRANSFERRED \nRECORDS",
+        "content": "An official of the Government who is authorized to \ncertify to facts on the basis of records in such official’s \ncustody, may certify to facts on the basis of records that \nhave been transferred by such official or such official’s \npredecessors to the Archivist, and may authorize the \nArchivist to certify to facts and to make administrative \ndeterminations on the basis of records transferred to the \nArchivist, notwithstanding any other law.\n§ 3105.  SAFEGUARDS\nThe head of each Federal agency sha...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF RECORDS",
+        "content": "(a) Federal Agency Notification.—The head of each \nFederal agency shall notify the Archivist of any actual, \nimpending, or threatened unlawful removal, defacing, \nalteration, corruption, deletion, erasure, or other destruc -\ntion of records in the custody of the agency, and with the \nassistance of the Archivist shall initiate action through the \nAttorney General for the recovery of records the head of \nthe Federal agency knows or has reason to believe have",
+        "type": "document_section"
+    },
+    {
+        "section_id": "GENERAL",
+        "content": "Chapters 21, 25, 27,1 29, and 31 of this title do not limit the \nauthority of the Comptroller General of the United States \nwith respect to prescribing accounting systems, forms, \nand procedures, or lessen the responsibility of collecting \nand disbursing officers for rendition of their accounts for \nsettlement by the Government Accountability Office.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REFERENCES IN TEXT",
+        "content": "1 Chapter 27 of this title, referred to in text, was repealed \nby Pub. L. 95–378, §2(a), Sept. 22, 1978, 92 Stat. 723 .",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DISPOSAL OF RECORDS",
+        "content": "(44 U.S.C. Chapter 33)\nSec.\n3301. Definition of records.\n3302. Regulations covering lists of records for disposal, \nprocedure for disposal, and standards for reproduc -\ntion.\n3303. Lists and schedules of records to be submitted to \nArchivist by head of each Government agency.\n3303a.  Examination by Archivist of lists and schedules \nof records lacking preservation value; disposal of \nrecords.\n3308. Disposal of similar records where prior disposal was \nauthorized.\n3309. Preservation of claims of G...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REPRODUCTION",
+        "content": "The Archivist shall promulgate regulations, not \ninconsistent with this chapter, establishing—\n(1) procedures for the compiling and submitting to the \nArchivist of lists and schedules of records proposed for \ndisposal,\n(2) procedures for the disposal of records authorized for \ndisposal, and\n(3) standards for the reproduction of records by pho -\ntographic, microphotographic, or digital processes with a \nview to the disposal of the original records.\n§ 3303. LISTS AND SCHEDULES OF RECORDS",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TO BE SUBMITTED TO THE ARCHIVIST BY \nHEAD OF EACH GOVERNMENT AGENCY",
+        "content": "The head of each agency of the United States \nGovernment shall submit to the Archivist, under \nregulations promulgated as provided by section 3302 of \nthis title—\n(1) lists of any records in the custody of the agency that \nhave been photographed, microphotographed, or digi -\ntized under the regulations and that, as a consequence, do \nnot appear to have sufficient value to warrant their further \npreservation by the Government;\n(2) lists of other records in the custody of the agency \nnot needed by...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF RECORDS",
+        "content": "(a) The Archivist shall examine the lists and schedules \nsubmitted to the Archivist under section 3303 of this \ntitle. If the Archivist determines that any of the records \nlisted in a list or schedule submitted to the Archivist do \nnot, or will not after the lapse of the period specified, have \nsufficient administrative, legal, research, or other value to \nwarrant their continued preservation by the Government, \nthe Archivist may, after publication of notice in the Fed -\neral Register and an opp...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "WHERE PRIOR DISPOSAL WAS AUTHORIZED",
+        "content": "When it appears to the Archivist that an agency has in \nits custody, or is accumulating, records of the same \nform or character as those of the same agency previously \nauthorized to be disposed of, he may empower the head of \nthe agency to dispose of the records, after they have been \nin existence a specified period of time, in accordance with \nregulations promulgated under section 3302 of this title \nand without listing or scheduling them.\n§ 3309. PRESERVATION OF CLAIMS OF",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DISPOSAL AUTHORIZED UPON WRITTEN \nAPPROVAL OF COMPTROLLER GENERAL",
+        "content": "Records pertaining to claims and demands by or \nagainst the Government of the United States or to \naccounts in which the Government of the United \nStates is concerned, either as debtor or creditor, may \nnot be disposed of by the head of an agency under \nauthorization granted under this chapter, until the \nclaims, demands, and accounts have been settled and \nadjusted in the Government Accountability Office, \nexcept upon the written approval of the Comptroller \nGeneral of the United States.\n§ 3310...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ARCHIVIST",
+        "content": "During a state of war between the United States and \nanother nation, or when hostile action by a foreign \npower appears imminent, the head of an agency of the \nUnited States Government may authorize the destruction \nof records in his legal custody situated in a military or \nnaval establishment, ship, or other depository outside the \nterritorial limits of continental United States—\n(1) the retention of which would be prejudicial to the \ninterests of the United States or\n(2) which occupy space urg...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REPRODUCTIONS ADMISSIBLE IN EVIDENCE",
+        "content": "Photographs, microphotographs of records, or digitized \nrecords made in compliance with regulations under \nsection 3302 of this title shall have the same effect as the \noriginals and shall be treated as originals for the purpose of \ntheir admissibility in evidence. Certified or authenticated \nreproductions of the photographs, microphotographs, or \ndigitized records shall be admitted in evidence equally \nwith the original photographs, microphotographs, or \ndigitized records.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PAYABLE INTO THE TREASURY",
+        "content": "Money derived by agencies of the Government from the \nsale of records disposed of under this chapter shall be paid \ninto the Treasury of the United States unless otherwise \nrequired by law.§ 3314. PROCEDURES FOR DISPOSAL OF",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS EXCLUSIVE",
+        "content": "The procedures prescribed by this chapter are exclusive, \nand records of the United States Government may not be \nalienated or destroyed except under this chapter.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "COORDINATION OF FEDERAL INFORMATION POLICY",
+        "content": "(44 U.S.C. Chapter 35)\nSec.\n3501 note   E-Government Act of 2002\n  ***\n3504. Authority and functions of Director.\n  ***\n3515. Administrative Powers.\n  ***\n***\n§ 3501 NOTE  E-GOVERNMENT ACT OF 2002",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND PRESERVATION OF GOVERNMENT",
+        "content": "INFORMATION.\n(a) Purpose.—The purpose of this section [of this \nnote] is to improve the methods by which Government \ninformation, including information on the Internet, \nis organized, preserved, and made accessible to the \npublic.\n \n(b) Definitions.—In this section [of this note], the term—\n(1) ‘Committee’ means the Interagency Committee on \nGovernment Information established under subsection \n(c); and\n(2) “directory’ means a taxonomy of subjects linked to \nwebsites that—\n(A) organizes Governmen...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DIRECTOR",
+        "content": "(a)(1) The Director [of OMB] shall oversee the use of \ninformation resources to improve the efficiency and ef -\nfectiveness of governmental operations to serve agency \nmissions, including burden reduction and service delivery \nto the public. In performing such oversight, the Director \nshall—\n(A) develop, coordinate and oversee the implementa -\ntion of Federal information resources management pol -\nicies, principles, standards, and guidelines; and\n (B) provide direction and oversee—\n(i) the revie...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "OF GOVERNMENT INFORMATION LOCATOR \nSERVICE",
+        "content": "(a) In order to assist agencies and the public in locating \ninformation and to promote information sharing and \nequitable access by the public, the Director shall—\n(1) cause to be established and maintained a distributed \nagency-based electronic Government Information \nLocator Service (hereafter in this section referred to as \nthe “Service”), which shall identify the major information \nsystems, holdings, and dissemination products of each \nagency;",
+        "type": "document_section"
+    },
+    {
+        "section_id": "MANAGEMENT AND PROMOTION OF  \nELECTRONIC GOVERNMENT SERVICES",
+        "content": "(44 U.S.C. Chapter 36)\nSec. \n ***\n3603. Chief Information Officers Council\n ***\n***\n§ 3603. CHIEF INFORMATION OFFICERS",
+        "type": "document_section"
+    },
+    {
+        "section_id": "COUNCIL",
+        "content": "(a) There is established in the executive branch a Chief \nInformation Officers Council.\n(b) The members of the Council shall be as follows:\n(1) The Deputy Director for Management of the Office \nof Management and Budget, who shall act as chairperson \nof the Council.\n(2) The Administrator of the Office of Electronic Gov -\nernment.\n(3) The Administrator of the Office of Information and \nRegulatory Affairs.(4) The chief information officer of each agency de -\nscribed under section 901(b) of title 31...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ATOMIC ENERGY DEFENSE PROVISIONS",
+        "content": "(50 U.S.C. §§ 2672, 2673)\n§ 2672. PROTECTION AGAINST",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INADVERTENT RELEASE OF RESTRICTED \nDATA AND FORMERLY RESTRICTED DATA",
+        "content": "(a) Plan for protection against release\nThe Secretary of Energy and the Archivist of the United \nStates shall, after consultation with the members of the \nNational Security Council and in consultation with the \nSecretary of Defense and the heads of other appropriate \nFederal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly \nRestricted Data during the automatic declassification of \nrecords under Executive Order No. 13526 (50 U.S.C. \n316...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DECLASSIFICATION OF RESTRICTED DATA \nAND FORMERLY RESTRICTED DATA",
+        "content": "(a) Supplement to plan\nThe Secretary of Energy and the Archivist of the United \nStates shall, after consultation with the members of the \nNational Security Council and in consultation with the \nSecretary of Defense and the heads of other appropriate \nFederal agencies, develop a supplement to the plan \nrequired under subsection (a) of section 2672 of this title.\n \n(b) Contents of supplement\nThe supplement shall provide for the application of that \nplan (including in particular the element of the ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DOCUMENTS RELATING TO JAPANESE INTERNMENT",
+        "content": "(50 U.S.C. App 1989b-6)\n§ 1989B-6. DOCUMENTS RELATING TO THE",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INTERNMENT",
+        "content": "(a) Preservation of documents in National Archives \nAll documents, personal testimony, and other records cre -\nated or received by the Commission during its inquiry \nshall be kept and maintained by the Archivist of the Unit -\ned States who shall preserve such documents, testimony, \nand records in the National Archives of the United States. \nThe Archivist shall make such documents, testimony, and \nrecords available to the public for research purposes.\n(b) Public availability of certain records of...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "RECORDS REGARDING PERSONS WHO",
+        "content": "COMMITTED NAZI WAR CRIMES.\n(a) Nazi War Criminal Records.—For purposes of this \nAct, the term “Nazi war criminal records’’ means classified \nrecords or portions of records that—\n(1) pertain to any person with respect to whom the \nUnited States Government, in its sole discretion, has \ngrounds to believe ordered, incited, assisted, or otherwise \nparticipated in the persecution of any person because of \nrace, religion, national origin, or political opinion, during \nthe period beginning on March 23,...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REQUESTS FOR NAZI WAR CRIMINAL",
+        "content": "RECORDS.\n(a) Expedited Processing.—For purposes of expedited \nprocessing under section 552(a)(6)(E) of title 5, United \nStates Code, any requester of a Nazi war criminal record \nshall be deemed to have a compelling need for such record  \n(b) Requester.—For purposes of this section, the term \n“requester’’ means any person who was persecuted in the \nmanner described under section 3(a)(1) of this Act who \nrequests a Nazi war criminal record.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REQUESTS FOR JAPANESE IMPERIAL",
+        "content": "GOVERNMENT RECORDS.\nFor purposes of expedited processing under section 552(a)\n(6)(E) of title 5, United States Code, any person who was \npersecuted in the manner described in section 802(a)(3) \nand who requests a Japanese Imperial Government record \nshall be deemed to have a compelling need for such record.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AS AMENDED",
+        "content": "(50 U.S.C. § 3161  note, Pub. L. 106-567)",
+        "type": "document_section"
+    },
+    {
+        "section_id": "AND REVIEW FOR DECLASSIFICATION OF \nINFORMATION OF ARCHIVAL VALUE OR",
+        "content": "EXTRAORDINARY PUBLIC INTEREST.\n(a) Briefings on Agency Declassification Programs.—(1) \nAs requested by the Board, or by the Select Committee on \nIntelligence of the Senate or the Permanent Select Commit -\ntee on Intelligence of the House of Representatives, the head \nof any agency with the authority under an Executive order \nto classify information shall provide to the Board, the Select \nCommittee on Intelligence of the Senate, or the Permanent \nSelect Committee on Intelligence of the House of R...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "SECURITY INFORMATION AND OTHER",
+        "content": "INFORMATION.\n(a) In General.—Nothing in this title shall be construed \nto limit the authority of the head of an agency to classify \ninformation or to continue the classification of informa -\ntion previously classified by that agency.\n(b) Special Access Programs.—Nothing in this title \nshall be construed to limit the authority of the head of an \nagency to grant or deny access to a special access program.\n(c) Authorities of Director of National Intelligence.—\nNothing in this title shall be constru...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "THE DIRECTOR OF THE BUREAU OF CENSUS AND THE \nARCHIVIST OF THE UNITED STATES",
+        "content": "[referenced in 44 U.S.C. 2108 (b)]",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PROVIDING FOR THE SUPPLEMENTAL  \nUSE OF EXHIBITS AND DISPLAYS CREATED  \nIN FURTHERANCE OF AUTHORIZED PROGRAMS  \nOF EXECUTIVE DEPARTMENTS AND AGENCIES",
+        "content": "Source: The provisions of Executive Order 11440 of Dec. 11, 1968,  \nappear at 33 FR 18475, 3 CFR, 1966-1970 Comp., p. 756, unless otherwise noted.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PREDISCLOSURE NOTIFICATION PROCEDURES FOR  \nCONFIDENTIAL COMMERCIAL INFORMATION",
+        "content": "Source: The provisions of Executive Order 12600 of June 23, 1987,  \nappear at 52 FR 23781, 3 CFR, 1987 Comp., p. 235, unless otherwise noted.\nBy the authority vested in me as President by the \nConstitution and statutes of the United States of \nAmerica, and in order to provide predisclosure \nnotification procedures under the Freedom of \nInformation Act concerning confidential commercial \ninformation, and to make existing agency notification \nprovisions more uniform, it is hereby ordered as \nfollo...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "NATIONAL INDUSTRIAL SECURITY PROGRAM",
+        "content": "Ex. Ord. No. 12829, Jan. 6, 1993, 58 F .R. 3479, as amended by Ex. Ord. No. 12885, Dec. 14, 1993, 58 F .R. 65863, provided:\nThis order establishes a National Industrial Security \nProgram to safeguard Federal Government classified \ninformation that is released to contractors, licensees, and \ngrantees of the United States Government. To promote \nour national interests, the United States Government \nissues contracts, licenses, and grants to nongovernment \norganizations. When these arrangements requ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DECLASSIFICATION OF SELECTED RECORDS WITHIN  \nTHE NATIONAL ARCHIVES OF THE UNITED STATES",
+        "content": "Source: The provisions of Executive Order 12937 of November 10, 1994, appear at 3 CFR, 1994 Comp., p. 949.\nBy the authority vested in me as President by the \nConstitution and the laws of the United States of America, \nit is hereby ordered:\nSection 1.  The records in the National Archives of the \nUnited States referenced in the list accompanying this \norder are hereby declassified.\nSec. 2.  The Archivist of the United States shall take such \nactions as are necessary to make such records available...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "ACCESS TO CLASSIFIED INFORMATION",
+        "content": "Source: Ex. Ord. No. 12968, Aug. 2, 1995, 60 F .R. 40245, as amended by  \nEx. Ord. No. 13467, §3(b), June 30, 2008, 73 F .R. 38107, provided:\nThe national interest requires that certain information \nbe maintained in confidence through a system of \nclassification in order to protect our citizens, our \ndemocratic institutions, and our participation within the \ncommunity of nations. The unauthorized disclosure of \ninformation classified in the national interest can cause \nirreparable damage to the ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PROCEDURE",
+        "content": "Sec. 2.1. Eligibility Determinations . (a) Determinations \nof eligibility for access to classified information shall \nbe based on criteria established under this order. \nSuch determinations are separate from suitability \ndeterminations with respect to the hiring or retention of \npersons for employment by the government or any other \npersonnel actions.\n(b) The number of employees that each agency determines \nare eligible for access to classified information shall be \nkept to the minimum required ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "GOVERNMENTS",
+        "content": "Sec. 4. Authority . Agencies that conduct background \ninvestigations, including the Federal Bureau of \nInvestigation and the Department of State, are authorized \nto conduct personnel security investigations in the United \nStates when requested by a foreign government as part of \nits own personnel security program and with the consent \nof the individual.",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DETERMINATIONS",
+        "content": "Sec. 5.1. Determinations of Need for Access . A determination \nunder section 2.1(b)(4) of this order that an employee \ndoes not have, or no longer has, a need for access is a \ndiscretionary determination and shall be conclusive.\nSec. 5.2. Review Proceedings for Denials or Revocations of \nEligibility for Access . (a) Applicants and employees who \nare determined to not meet the standards for access to \nclassified information established in section 3.1 of this \norder shall be:\n(1) provided as compr...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "REFORMING PROCESSES RELATED TO SUITABILITY",
+        "content": "FOR GOVERNMENT EMPLOYMENT , FITNESS FOR",
+        "type": "document_section"
+    },
+    {
+        "section_id": "TO CLASSIFIED NATIONAL SECURITY INFORMATION",
+        "content": "Ex. Ord. No. 13467, June 30, 2008, 73 F .R. 38103, provided:\nBy the authority vested in me as President by the \nConstitution and the laws of the United States of America, \nand in order to ensure an efficient, practical, reciprocal, \nand aligned system for investigating and determining \nsuitability for Government employment, contractor \nemployee fitness, and eligibility for access to classified \ninformation, while taking appropriate account of title III \nof Public Law 108–458, it is hereby ordere...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DEFINITIONS",
+        "content": "Section 1.1. Policy . Executive branch policies and \nprocedures relating to suitability, contractor employee \nfitness, eligibility to hold a sensitive position, access to \nfederally controlled facilities and information systems, \nand eligibility for access to classified information shall be \naligned using consistent standards to the extent possible, \nprovide for reciprocal recognition, and shall ensure cost-\neffective, timely, and efficient protection of the national \ninterest, while providing f...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "GOVERNANCE",
+        "content": "Sec. 2.1. Aligned System . (a) Investigations and \nadjudications of covered individuals who require a \ndetermination of suitability, eligibility for logical and \nphysical access, eligibility to hold a sensitive position, \neligibility for access to classified information, and, as \nappropriate, contractor employee fitness, shall be aligned \nusing consistent standards to the extent possible. Each \nsuccessively higher level of investigation and adjudication \nshall build upon, but not duplicate, the ...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PRESIDENTIAL RECORDS",
+        "content": "By the authority vested in me as President by the \nConstitution and the laws of the United States of \nAmerica, and in order to establish policies and procedures \ngoverning the assertion of executive privilege by \nincumbent and former Presidents in connection with the \nrelease of Presidential records by the National Archives \nand Records Administration (NARA) pursuant to the \nPresidential Records Act of 1978, it is hereby ordered as \nfollows:\nSection 1.  Definitions.  For purposes of this order:\n...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "CLASSIFIED NATIONAL SECURITY INFORMATION",
+        "content": "This order prescribes a uniform system for classifying, \nsafeguarding, and declassifying national security \ninformation, including information relating to defense \nagainst transnational terrorism. Our democratic principles \nrequire that the American people be informed of the \nactivities of their Government. Also, our Nation’s progress \ndepends on the free flow of information both within the \nGovernment and to the American people. Nevertheless, \nthroughout our history, the national defense has re...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "DOWNGRADING",
+        "content": "Sec. 3.1.  Authority for Declassification.  (a) Information \nshall be declassified as soon as it no longer meets the \nstandards for classification under this order.\n(b) Information shall be declassified or downgraded by:\n(1) the official who authorized the original classifica -\ntion, if that official is still serving in the same position and \nhas original classification authority;\n(2) the originator’s current successor in function, if that \nindividual has original classification authority;\n(3) a...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "BARACK OBAMA",
+        "content": "BASIC LAWS and AUTHORITIES  | 137\tTHE FREEDOM OF INFORMATION ACT\n5 U.S.C. § 552, As Amended\n§552. PUBLIC INFORMATION; AGENCY",
+        "type": "document_section"
+    },
+    {
+        "section_id": "PROCEEDINGS",
+        "content": "(a) Each agency shall make available to the public \ninformation as follows:\n(1) Each agency shall separately state and currently publish \nin the Federal Register for the guidance of the public—\n(A) descriptions of its central and field organization and \nthe established places at which, the employees (and in the \ncase of a uniformed service, the members) from whom, \nand the methods whereby, the public may obtain infor -\nmation, make submittals or requests, or obtain decisions;\n(B) statements of t...",
+        "type": "document_section"
+    },
+    {
+        "section_id": "INDIVIDUALS",
+        "content": "(a) Definitions\nFor purposes of this section—\n(1) the term “agency” means agency as defined in sec -\ntion 552(f) of this title;\n(2) the term “individual” means a citizen of the United \nStates or an alien lawfully admitted for permanent resi -\ndence;\n(3) the term “maintain” includes maintain, collect, use \nor disseminate;\n(4) the term “record” means any item, collection, or \ngrouping of information about an individual that is main -\ntained by an agency, including, but not limited to, his ed -\nuca...",
+        "type": "document_section"
+    }
+]
